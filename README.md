@@ -18,3 +18,8 @@ Congrats on your new job with the business intelligence team at Cyclistic, a fic
 - [Stakeholder Requirements Document.](https://github.com/Roccodrilosky/Cyclistic-BI/blob/main/Cyclistic%20-%20Stakeholder%20Requirements%20Document.pdf)
 - [Project Requirements Document.](https://github.com/Roccodrilosky/Cyclistic-BI/blob/main/Cyclistic%20-%20Project%20Requirements%20Document.pdf)
 - [Strategy Document](https://github.com/Roccodrilosky/Cyclistic-BI/blob/main/Cyclistic%20-%20Strategy%20Document.pdf)
+
+### Creating the target table for Cyclistic.
+
+[SQL code to create a summary table for the entire year]()
+[SQL code to capture the data from just the summer season]()
