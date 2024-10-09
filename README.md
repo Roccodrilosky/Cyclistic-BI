@@ -21,5 +21,5 @@ Congrats on your new job with the business intelligence team at Cyclistic, a fic
 
 ### Creating the target table for Cyclistic.
 
-[SQL code to create a summary table for the entire year]()
+[SQL code to create a summary table for the entire year]()  
 [SQL code to capture the data from just the summer season]()
