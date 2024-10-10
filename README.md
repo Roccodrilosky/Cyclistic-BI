@@ -13,17 +13,17 @@ Congrats on your new job with the business intelligence team at Cyclistic, a fic
 
 - [Meeting Notes](https://github.com/Roccodrilosky/Cyclistic-BI/blob/main/Meeting%20Notes.md)
 
-### Business Intelligence Documents.
+## Business Intelligence Documents.
 
 - [Stakeholder Requirements Document.](https://github.com/Roccodrilosky/Cyclistic-BI/blob/main/Cyclistic%20-%20Stakeholder%20Requirements%20Document.pdf)
 - [Project Requirements Document.](https://github.com/Roccodrilosky/Cyclistic-BI/blob/main/Cyclistic%20-%20Project%20Requirements%20Document.pdf)
 - [Strategy Document](https://github.com/Roccodrilosky/Cyclistic-BI/blob/main/Cyclistic%20-%20Strategy%20Document.pdf)
 
-### Creating the target table for Cyclistic.
+## Creating the target table for Cyclistic.
 
 [SQL code to create a summary table for the entire year.](https://github.com/Roccodrilosky/Cyclistic-BI/blob/main/entire_year.sql)  
 [SQL code to capture the data for the summer season only.](https://github.com/Roccodrilosky/Cyclistic-BI/blob/main/summer_season.sql)
 
-### Final Dashboard.
+## Final Dashboard.
 
 [Tableau BI Project: Cyclystic](https://public.tableau.com/app/profile/rodrigo.gq/viz/BIProject-Cyclistic/SummerTrends)
