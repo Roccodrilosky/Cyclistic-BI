@@ -23,3 +23,7 @@ Congrats on your new job with the business intelligence team at Cyclistic, a fic
 
 [SQL code to create a summary table for the entire year.](https://github.com/Roccodrilosky/Cyclistic-BI/blob/main/entire_year.sql)  
 [SQL code to capture the data for the summer season only.](https://github.com/Roccodrilosky/Cyclistic-BI/blob/main/summer_season.sql)
+
+### Final Dashboard
+
+[Tableau BI Project: Cyclystic](https://public.tableau.com/app/profile/rodrigo.gq/viz/BIProject-Cyclistic/SummerTrends)
